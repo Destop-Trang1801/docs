@@ -75,7 +75,7 @@
   },
   "devDependencies": {
     "ajv": "^6.11.0",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "await-sleep": "0.0.1",
     "aws-sdk": "^2.610.0",
     "broken-link-checker": "^0.7.8",
